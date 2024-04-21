@@ -3,11 +3,11 @@
 ### step 1: what to do with an email
 take his email address walter.goose.wxm@gmail.com. seeing that it says its an event that they are meeting up and i guess with a gmail account one they that could be tried is using ghunt to find their public google calendar.
 using ghunt, you can see this!
-![image](https://github.com/TheRealGecko/wxmctf-2024-admin/assets/80985676/73722791-88ae-428b-98ff-a21008cbacc8)
+![image](https://github.com/cheollie/ctf-writeups/assets/80985676/70655f8f-46b6-43e7-a3dc-565c37eb33db)
 
 ### step 2: calendar!
 downloading the .ics file you get some information, but to be sure here's what you get when u import the url into google calendar
-![image](https://github.com/TheRealGecko/wxmctf-2024-admin/assets/80985676/956cdc8c-6bbd-453a-9cb1-6af0d13ecff0)
+![image](https://github.com/cheollie/ctf-writeups/assets/80985676/4730e806-4038-4fff-990e-a21171b097ad)
 
 from this you can get
 - vera.aloe.wxm@gmail.com
